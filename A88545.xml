@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lord Henry Cromvvels speech in the House.</title>
+            <author>Cromwell, Henry, 1628-1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88545</idno>
+            <idno type="STC">Wing L3047A</idno>
+            <idno type="STC">Thomason E1001_15</idno>
+            <idno type="STC">ESTC R207849</idno>
+            <idno type="EEBO-CITATION">99866876</idno>
+            <idno type="PROQUEST">99866876</idno>
+            <idno type="VID">168730</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88545)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168730)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 148:E1001[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lord Henry Cromvvels speech in the House.</title>
+                  <author>Cromwell, Henry, 1628-1674.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed anno Dom. 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>With title page woodcut.</note>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] 31".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  House of Lords --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168730:1" rendition="simple:additions"/>
+            <p>The Lord HENRY CROMVVELS SPEECH IN THE HOVSE.</p>
+            <q>
+               <hi>Ignavum fucos pecus à praecepibus arcent.</hi>
+            </q>
+            <p>
+               <figure>
+                  <figDesc>woodcut</figDesc>
+                  <p>Weſtminſter</p>
+                  <p>Dublin</p>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:168730:2"/>
+            <pb n="3" facs="tcp:168730:2"/>
+            <head>The Lord <hi>HENRY CROMWELLS</hi> SPEECH in the HOUSE.</head>
+            <p>RIght Honourable Court of Parliament, I am here come before you, and firſt I beg Your par<g ref="char:EOLhyphen"/>don that I call yee ſo, for I profeſſe, I have been ſo us'd to Titles, that I can hardly yet leave them off; I confeſs your honour is my diſhonour: but why ſhould I be aſham'd of this abatement of my grandeur, when I find others that have ſuffered in the ſame kind? I ſee here <hi>Sydenham, Lambert,</hi> and many more that were once Flanders-lac'd with the Titles of Lords, who are now again content to be but plain Colo<g ref="char:EOLhyphen"/>nels, and may thank God for that too: Come my Ma<g ref="char:EOLhyphen"/>ſters, a Colonels pay is better than nothing; I doe not envy <hi>Pride</hi> for dying a Lord, for life's ſweet, though it be enjoy'd in a mean condition, eſpecially to men that are not much troubled with that thing call'd <hi>Courage and a high Spirit,</hi> ſuch as my Brother and I are: I remember you once made a <hi>Self-denying Ordinance,</hi> believe it twas a
+<pb n="4" facs="tcp:168730:3"/>
+               <hi>Chriſtian Ordinance<g ref="char:punc">▪</g>
+               </hi> and I think I have been as true a Proſelyte to it, as any of your Subjects in <hi>England.</hi> But ſome will object to me, that I became ſo by conſtraint: Alas! who can but be a Chriſtian, when he hath not Red<g ref="char:EOLhyphen"/>coats enough about him to make him appear otherwiſe? When <hi>Dionyſius</hi> was victorious he was a Tyrant, when he loſt his Army he was content to be a Pedagogue; Tis true, I have not Latin enough to be as he was, but I thank God my Father brought me up to read my Teſtament, ſo that let the worſt come to the worſt, I ſhall be able to teach Children their Primers. And now I am put in mind of my Father, I muſt tell yee, he had as much wit as any of yee all, and more; but let that paſs, for you had the worſt on't; and wee his Children have as much too little; but let that paſs, for we have the worſt on't. <hi>The worst on't</hi> did I ſay? A<g ref="char:EOLhyphen"/>laſs I would fain be humble, but I have a kind of rebelli<g ref="char:EOLhyphen"/>ous Spirit within me, which you Gentlemen I hope will take an occaſion to tame. When <hi>Ahab</hi> threw himſelf at his Victors feet, he came with a rope about his neck, but I deſire you to excuſe me that I did not do ſo, knowing, that if it were a ſin to tempt God, it would be a greater to tempt his Saints with ſuch inconveniencie, being leſſe able to reſiſt. But what a ſtrange grief doth now ſurpriſe me! where are my Fathers tears? yet what will they a<g ref="char:EOLhyphen"/>vail me, for he had ſo often deceiv'd you with his, that 'tis impoſſible I ſhould ever entrap you with mine. I was lately Lord Deputy of <hi>Ireland,</hi> but now poor, miſerable, dejected, rejected, diſreſpected, unprotected <hi>Harry Cromwell;</hi> But 'tis no matter, ſince you have done it, whom I ought to flatter, leſt a worſe thing befall mee; I had as good ſay ſo, as that you ſhould think ſo; For I know you will never believe any Son of my Fa<g ref="char:EOLhyphen"/>ther to be real. Alas the people would think us Baſtards, I mean my Brother and I, were we not like our Father in ſomething. And indeed, in what could he make us more like him, than in diſſimulation, of which he was ſo great a Maſter. But to ſay truth, you may well enough bear with
+<pb n="5" facs="tcp:168730:3"/>my flattering of you, it being only like that of a Childs colloguing to ſave his breech, not that my deſigns did fly high, or that I uſe it as an engine to ſupplant you as my Father: God knows you know I have neither wit nor cou<g ref="char:EOLhyphen"/>rage for ſuch an enterpriſe. Gentlemen, they ſay you have an <hi>Oath</hi> to give me, pray let me ſee't, for Ile take it though it were as long as a Taylors Bill, nay though there were nothing but the word <hi>conſtant</hi> in it. 'Tis a word which I do very much prize; For had not you been conſtant to your principles for ſix years together while yee were in <hi>Babylon,</hi> you had never ſat here again; and had not my Fathers friends been more <hi>conſtant</hi> to you than to us, our condition had not been as 'tis. I cannot ſay you are like the Devil, for it was my Father that mounted me ſo high upon the pinacle of Fortunes Temple; but ſure I am you are <hi>tempters</hi> great enough, for only you could have made me thus <hi>fall down and worſhip.</hi> The Players have a Play, where they bring in a Tinker, and make him believe him<g ref="char:EOLhyphen"/>ſelf a Lord, and when they had ſatisfied their humour, they made him a plain Tinker again; Gentlemen, but that this was a great while agoe, I ſhould have thought this Play had been made of me: for if ever two caſes were a<g ref="char:EOLhyphen"/>like, 'tis the <hi>Tinkers</hi> and <hi>Mine.</hi> But well fare my Fathers Soul, for though men ſay he had a Copper Noſe, he was no Tinker, no Dreamer, for his Name ſtill lives. Me thinks I hear um already crying, thirty year hence at <hi>Bartholmew Fair,</hi> Step in and ſee the Life and Death of brave <hi>Cromwell.</hi> Me thinks I ſee him with a velvet cragg about his ſhoulders, and a little paſboard hat on his head riding a rittup a tittup to his Parliament houſe, and a man with a Bay leaf in his mo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th crying in his behalf <hi>By the Li<g ref="char:EOLhyphen"/>ving God I will diſſolve um,</hi> which makes the Porters cry, <hi>O brave Engliſhman.</hi> Then the Devil carries him away in a tempeſt, which makes the Nurſes ſqueek, and the Child<g ref="char:EOLhyphen"/>ren cry. But alas I cannot hope for any ſuch Monuments of my fame; Will ever my Face hang out at <hi>Temple Bar?</hi> will ever my picture be thought worthy to be cut out in
+<pb n="6" facs="tcp:168730:4"/>Sattin by Schoo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> boyes, and be hang'd up in Alehouſes to inſpire Ballad ſingers. 'Tis true, we had a pittifull Poet belonged to our Family; but he can't write Panegyricks, unleſſe he be well fed; Beſides they ſay bad Poets are great Lyers; and indeed I find him ſo, for he told me I was <hi>Illuſtriſſimus</hi> and <hi>Excellentiſſimus,</hi> and I do not know what my ſelf: But I ſee now they did but flatter me; For had I been ſo indeed, I ſhould not have been cringing here now. But Gentlemen, doe not think that I am ſuch a <hi>ſubſtantive Fool</hi> as to ſtand altogether by my ſelf; I have a <hi>Yoak Fellow,</hi> even my <hi>Elder Brother.</hi> Yet Gentlemen, give me leave to tell yee, that every <hi>Richard</hi> is not a <hi>Ceur de lyon;</hi> and <hi>Henry of Winſor</hi> you know loſt what <hi>Hen<g ref="char:EOLhyphen"/>ry of Monmouth</hi> left him; So yee ſee there are Preſidents of thoſe that have loſt, as well as of thoſe that have got ten Kingdoms, and why may not I loſe <hi>Ireland,</hi> as well as my <hi>name-ſake</hi> loſt <hi>France,</hi> I am ſure I thought my ſelf as good a man as he, when I was Lord Duputy. I remember when we were boyes, my Brother and I lov'd <hi>Porrage</hi> exceeding well, a good year on't, I think they that do ſo are all like <hi>Licurgus</hi> lapping hound, of the wrong breed. The Anabaptiſts, 'tis true, told me, that the Saints ſhould inherit the Earth, and that I was <hi>a man of ſin,</hi> and therefore muſt down; I like an unbeliever as I was, told them that Chriſts Kingdome was not of this World; but they replyed, <hi>Nay verily but it was,</hi> and now I plainly find who was in the wrong; But my comfort is, my Brother was as much miſtaken: For the Miniſters told him that <hi>Nimrod</hi> was a <hi>greater Hunter,</hi> and yee know he was a very great Monarch; now thought he, I am a very great Hun<g ref="char:EOLhyphen"/>ter, therefore I muſt be a very great Monarch; but he was cleerly miſtaken, and it appears that there was a lying Spirit in the mouths of his Prophets. But Lord, what a coil the women keep at home. My Mother inſtead of welcomming me home, cry'd out, Oh yee baſe baſtardly Coward, have you not done finely thus to make your ſelf and me the ſoorn of Nations! Oh pittiful Brothers, cries
+<pb n="7" facs="tcp:168730:4"/>my Siſter <hi>Rich,</hi> I might have married another Lord, but for you, that have undone me and all your Family. And indeed they made ſuch a din in my ears with bewayling the loſſe of their <hi>Lady-Rockers gilt Coaches, gentlemen Uſhers, hundred pound Whiſks,</hi> and ſuch kind of worldly trinkets, that I was almoſt maz'd with the noiſe. But ſaid I to my Mother, <hi>Peace, Mother, peace,</hi> why cannot you be content to retire from greatneſſe to a private life, as well as <hi>Diocleſian, Charls</hi> the fifth, and my Brother and I? To my Siſter <hi>Rich</hi> quoth I, <hi>Pray take not ſo much pepper in the noſe,</hi> your condition does not require it. Have you forgot all the godly Sermons of Mr. <hi>Sterry,</hi> and Mr. <hi>Lockier</hi> concerning the worlds vanity? At this they cryed out all together <hi>Give us our Honours, or elſe we die.</hi> But I hope Gentlemen, you will ſtop their mouths, ſince I cannot. My Mother thought to have kept a Court at <hi>Soerſet-houſe;</hi> But you have done well to ſell it, that ſo that great <hi>Temptation</hi> may be taken out of her ſight; yet truly Gentlemen I can tell yee, they bring a very good excuſe for their Pride: For they ſay that God was angry with the Children of Iſrael for ſeeking to return to their <hi>Gar<g ref="char:EOLhyphen"/>lick</hi> and <hi>Onions,</hi> and they are loath to be guilty of that Sin. Now Gentlemen, that I may wind up my bottom (though I think there be here among you ſome who have been of the trade, that can do it better than I can.) Firſt I ſhall ſpeak to you by way of Conſolation, to aſſure you of <hi>Ireland,</hi> for as <hi>Fleetwood, Desborough,</hi> and <hi>Sydenham,</hi> ſnuffed out <hi>Britains great Chriſtmas Candle,</hi> which was my Brother, even ſo did <hi>Miles Corbet, Coot,</hi> and the reſt of the privy Councel extinguiſh the flaming Torch of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> which was my ſelf. They ſay there are Comets, I think we were Comets, for we made a great blaze in the World for a time, but the matter that fed us dying, we <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oon vaniſhed. Truly Gentlemen, I left <hi>Ireland</hi> quiet, and there's good reaſon for it, for who do you think will hazard themſelves for two ſuch drones as my Brother and I? Next, I ſhall ſpeak to you by way of Exhortation, that
+<pb n="8" facs="tcp:168730:5"/>is to exhort yee, and I ſhall deſire you to take a Fools Counſel, as the Proverb is, for once, that is, to ſit here as long as you can; 'tis a ſweet thing to ride upon the ſhoulders of a Nation; To this end, take heed of your good friend Mr. <hi>Lambert;</hi> for it concerns you, being the — <hi>end</hi> of a Parliament to have a care of comming <hi>under the laſh;</hi> give your Friends life; hang up your Ene<g ref="char:EOLhyphen"/>mies; grow rich; and let your obedient Servant goe home into the Country,</p>
+            <epigraph>
+               <q>
+                  <l>Where I like Hermite poor in penſive place obſcure,</l>
+                  <l>Do mean to ſpend my dayes of endleſſe doubt,</l>
+                  <l>To wayl ſuch woes as time cannot recure,</l>
+                  <l>Where none but you ſhall ever find me out.</l>
+                  <l>And at my Gates deſpair ſhall linger ſtill,</l>
+                  <l>To let in death when <hi>you ſhall pleaſe <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o kill.</hi>
+                  </l>
+               </q>
+            </epigraph>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
